@@ -5,8 +5,8 @@
 * Student ID number: ................
 * Student email: ................
 
-Subprojects delivered on time:
-- [] Sub01
-- [] Sub02
-- [] Sub03
-- [] ...
+## Subprojects delivered on time:
+- [ ] Sub01
+- [ ] Sub02
+- [ ] Sub03
+- [ ] ...
