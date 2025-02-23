@@ -1,5 +1,6 @@
 # Software Analysis & Design Individual Project
-This repository is under continuous update during **Spring Semester 2025**
+This repository is under continuous update during **Spring Semester 2025**.
+You should keep your repository private and add the lesson as collaborator.
 
 ## Student Information
 * Name: ................
