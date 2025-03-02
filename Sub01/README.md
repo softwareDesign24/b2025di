@@ -4,7 +4,7 @@
 
 During this task, you have to accomplish the following **goals**:
 - [ ] Depict system boundary.
-- [ ] Depict the basic use cases.
+- [ ] Depict the basic use cases (not less than 3, not more than 8).
 - [ ] Depict actors.
 - [ ] Depict relationships (association, include, extend, generalization).
 
