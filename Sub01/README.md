@@ -9,7 +9,7 @@ During this task, you have to accomplish the following **goals**:
 - [ ] Depict relationships (association, include, extend, generalization).
 
 * You have to use only [starUML](https://staruml.io) to build the diagram.
-* Upload in this folder the final **pdf** file, extracted from starUML.
+* Upload in this folder the final **pdf** file, extracted from starUML. The filename format should be UCD_sdi0xxxxxx.pdf (where **sdi0xxxxxx** is your student id number).
 * Upload in this folder a printscreen from starUML final task and tag it in current README.md file (see example below).
 
 ![Put here your Use Case Diagram image!](UseCaseDiagram_example.png)
