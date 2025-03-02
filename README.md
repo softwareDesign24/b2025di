@@ -1,7 +1,7 @@
 # Software Analysis & Design: Individual Project
 * This repository will be **under continuous update** during the **Spring Semester 2025**.
 * You should keep your repository **private** and add the supervisor as collaborator.
-* If you **omit** a task or **miss** >50% of the number of the deadlines, your project will be cancelled.
+* If you **omit** a task or **miss** >50% of the deadlines, your project will be cancelled.
 
 ## Student Information
 * Name: ................
