@@ -1,4 +1,4 @@
-# Task 03
+# micro-task 03
 
 During this task, you have to accomplish the following **goals**:
 - [ ] .........
