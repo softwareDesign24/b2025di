@@ -1,4 +1,4 @@
-# Task 01
+# micro-task 01
 * Based on the [decription](https://www.britannica.com/science/human-body), construct a **Use Case Diagram**, depicting human body as organization. The actors that interact with the organization will be animals (mammals, birds, fish).
 * If you cannot find all the answers you need in the description, you can make your own assumptions.
 
