@@ -17,10 +17,10 @@
 
 ## Resources
 * **[The human body (Britannica)](https://www.britannica.com/science/human-body)**
-* [https://en.wikipedia.org/wiki/Software_requirements](https://en.wikipedia.org/wiki/Software_requirements)
-* [https://en.wikipedia.org/wiki/Software_design](https://en.wikipedia.org/wiki/Software_design)
-* [https://en.wikipedia.org/wiki/Systems_development_life_cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
-* [https://en.wikipedia.org/wiki/Unified_Modeling_Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+* [https://en.wikipedia.org/wiki/Software_requirements](https://en.wikipedia.org/wiki/Software_requirements) (introduction to software requirements)
+* [https://en.wikipedia.org/wiki/Software_design](https://en.wikipedia.org/wiki/Software_design) (instroduction to software design)
+* [https://en.wikipedia.org/wiki/Systems_development_life_cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle) (introduction to software development cycle)
+* [https://en.wikipedia.org/wiki/Unified_Modeling_Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language) (introduction to UML)
 * [https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design) (object oriented analysis and design)
 * [https://en.wikipedia.org/wiki/Use_case_diagram](https://en.wikipedia.org/wiki/Use_case_diagram) (for use case diagrams)
 * [https://en.wikipedia.org/wiki/Use_case_diagram](https://en.wikipedia.org/wiki/Use_case_diagram) (for class diagrams)
