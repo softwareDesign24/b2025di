@@ -4,9 +4,9 @@
 
 During this task, you have to accomplish the following **goals**:
 - [ ] Depict system boundary.
-- [ ] Depict the basic use cases (not less than 3, not more than 8).
+- [ ] Depict the basic use cases (not less than 3, not more than 10).
 - [ ] Depict actors.
-- [ ] Depict relationships (association, include, extend, generalization).
+- [ ] Depict the relationships: associations, includes, extends, generalizations.
 
 * You have to use only [starUML](https://staruml.io) to build the diagram.
 * Upload in this folder the final **pdf** file, extracted from starUML. The filename format should be UCD_sdi0xxxxxx.pdf (where **sdi0xxxxxx** is your student id number).
