@@ -16,7 +16,10 @@
 - [x] ...
 
 ## Resources
+## Specifications:
 * **[The human body (Britannica)](https://www.britannica.com/science/human-body)**
+
+## Guidelines
 * [https://en.wikipedia.org/wiki/Software_requirements](https://en.wikipedia.org/wiki/Software_requirements) (introduction to software requirements)
 * [https://en.wikipedia.org/wiki/Software_design](https://en.wikipedia.org/wiki/Software_design) (instroduction to software design)
 * [https://en.wikipedia.org/wiki/Systems_development_life_cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle) (introduction to software development cycle)
