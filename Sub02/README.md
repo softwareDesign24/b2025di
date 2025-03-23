@@ -7,7 +7,7 @@
 During this task, you have to accomplish (and check, accordingly) the following **goals**:
 - [ ] Depict human body as a class with at least 2 **attributes** and 2 **methods**.
 - [ ] Depict the basic systems of the human body as **classes** (not less than 3, not more than 10).
-- [ ] Depict at least one class as **Abstract** (whichever fit better to your design).
+- [ ] Depict at least one class as **Abstract** (whichever fits better to your design).
 - [ ] Depict the **relationships** between the basic elements (Aggregations and/or Compositions, Associations, Dependencies, Inheritance etc.) that better fit your diagram.
 - [ ] Depict at least one **enumeration**.
 - [ ] Depict at least one class attribute as **static** (whichever you want).
