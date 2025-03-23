@@ -1,6 +1,6 @@
 # micro-task 02
 ## 1. Introduction
-* Based on the [decription](https://www.britannica.com/science/human-body), construct a **Class Diagram** that depicts the human body as organization.
+* Based on the [decription](https://www.britannica.com/science/human-body), construct a **Class Diagram** (in folder **Sub02**) that depicts the human body as organization.
 * If you cannot find all the answers you need in the description, you can make your own assumptions (see **chapter 4** below).
 
 ## 2. Goals
