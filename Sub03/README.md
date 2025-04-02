@@ -4,6 +4,7 @@
 * If you cannot find all the answers you need in the description, you can make your own assumptions (see **chapter 4** below).
 
 > The respiratory system, composed of the breathing passages, lungs, and muscles of respiration, obtains from the air the oxygen necessary for cellular metabolism; it also returns to the air the carbon dioxide that forms as a waste product of such metabolism.
+> 
 > The circulatory system, composed of the heart, blood, and blood vessels, circulates a transport fluid throughout the body, providing the cells with a steady supply of oxygen and nutrients and carrying away waste products such as carbon dioxide and toxic nitrogen compounds.
 
 ## 2. Goals
