@@ -9,7 +9,7 @@
 
 ## 2. Goals
 During this task, you have to accomplish (and check, accordingly) the following **goals**:
-- [ ] Depict at least 3 objects/lifelines in your diagrams.
+- [ ] Depict at least 3 objects/lifelines in your diagram.
 - [ ] Depict all the necessary messages (at least 3 synchronous messages, at least 1 asynchronous message).
 - [ ] Depict at least one combined fragment (e.g. alternatives, options, loops).
 
