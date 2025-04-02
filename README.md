@@ -30,4 +30,4 @@
 * [https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/](https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/) (for class diagrams)
 * [https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/) (for class diagrams)
 * [https://developer.ibm.com/articles/the-class-diagram/](https://developer.ibm.com/articles/the-class-diagram/) (for class diagrams)
-* [https://developer.ibm.com/articles/the-sequence-diagram/](for sequence diagrams)
+* [https://developer.ibm.com/articles/the-sequence-diagram/] (for sequence diagrams)
