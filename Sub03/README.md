@@ -1,6 +1,6 @@
 # micro-task 03
 ## 1. Introduction
-* Based on the [descriptions](https://www.britannica.com/science/human-body) below, construct a **Sequence Diagram** (in folder **Sub03**) that depicts all the interactions that take place during **breathing**.
+* Based on the [description](https://www.britannica.com/science/human-body) below, construct a **Sequence Diagram** (in folder **Sub03**) that depicts all the interactions that take place during **breathing**.
 * If you cannot find all the answers you need in the description, you can make your own assumptions (see **chapter 4** below).
 
 > The respiratory system, composed of the breathing passages, lungs, and muscles of respiration, obtains from the air the oxygen necessary for cellular metabolism; it also returns to the air the carbon dioxide that forms as a waste product of such metabolism.
