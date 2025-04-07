@@ -1,6 +1,6 @@
 # micro-task 04
 ## 1. Introduction
-* Based on the [description](https://www.britannica.com/science/human-body) below, construct a **Statechart Diagram** (in folder **Sub04**). You should choose a class from your Class Diagram and depict all the states of its instance.
+* Based on the [description](https://www.britannica.com/science/human-body) below, construct a **Statechart Diagram** in folder **Sub04**. You should choose a class from your Class Diagram and depict all the states of its instance.
 * If you cannot find all the answers you need in the description, you can make your own assumptions (see **chapter 4** below).
 
 ## 2. Goals
