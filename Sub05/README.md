@@ -1,6 +1,6 @@
 # micro-task 05
 ## 1. Introduction
-* Based on the [description](https://www.britannica.com/science/human-body) below, select a subsystem of your choice and construct a 1-Level **Data Flow Diagram** in folder **Sub05**.
+* Based on the [description](https://www.britannica.com/science/human-body) below, select a subsystem of your choice and construct an 1-Level **Data Flow Diagram** in folder **Sub05**.
 * If you cannot find all the answers you need in the description, you can make your own assumptions (see **chapter 4** below).
 
 ## 2. Goals
