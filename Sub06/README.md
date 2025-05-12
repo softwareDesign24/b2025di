@@ -5,8 +5,8 @@
 
 ## 2. Goals
 During this task, you have to build in the **Sub06** folder at least the following **2 files**:
-- [ ] In the first file, code at least **1 class** that contains at least **1 attribute** and **1 method** (e.g. [circulatory_system.py](circulatory_system.py)).
-- [ ] In the second file, code at least **2 unit testing functions** (e.g. [test_01.py](test_01.py)).
+- [ ] In the first file (e.g. [circulatory_system.py](circulatory_system.py)), code at least **1 class** that contains at least **1 attribute** and **1 method**.
+- [ ] In the second file (e.g. [test_01.py](test_01.py)), code at least **2 unit testing functions**.
 
 ## 3. Guidelines
 * You can choose any programming language you prefer. In this example, python 3.10 was implemented.
