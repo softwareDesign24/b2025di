@@ -10,9 +10,11 @@ During this task, you have to build at least the following **2 files**:
 
 ## 3. Guidelines
 * You can choose any programming language you prefer. In this example, python 3.10 was implemented.
-* Add the **requirements.txt** file in your repo (see the [example](../requirements.txt)). Provided that you selected python, requirements.txt file should contain the unit testing library (pytest). If you choose a different language, you have to make the proper arrangements.
-* Create **.github/workflows** folder and add **python-unit_test.yml** file (see the example). Provided that you selected python, the file should contain the necessary key-value pairs. If you choose a different language, you have to make the proper arrangements.
+* Add the **requirements.txt** file in your repo (see the** [example](../requirements.txt)**). Provided that you selected python, requirements.txt file should contain the unit testing library (pytest). If you choose a different language, you have to make the proper arrangements.
+* Create **.github/workflows** folder and add **python-unit_test.yml** file (see the **[example](../.github/workflows/python-unit_test.yml)**). Provided that you selected python, the file should contain the necessary key-value pairs. If you choose a different language, you have to make the proper arrangements.
 
+If unit testing succeeds, the a screen similar to the following screenshot will appear in your Github Actions tab:
+![Github Actions success screen!](githubActionsSuccessScreen.png)
 
 ## 4. Assumptions
 * Assumption01: ................
