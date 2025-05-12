@@ -12,6 +12,7 @@ During this task, you have to build in the **Sub06** folder at least the followi
 * You can choose any programming language you prefer. In this example, python 3.10 was implemented.
 * Add the **requirements.txt** file in your repo (see the **[example](../requirements.txt)**). Provided that you selected python, that file should contain the unit testing library (pytest). If you choose a different language, you have to make the proper arrangements.
 * Create **.github/workflows** folder and add the **python-unit_test.yml** file in it (see the **[example](../.github/workflows/python-unit_test.yml)**). Provided that you selected python, the file should contain the necessary key-value pairs. If you choose a different language, you have to make the proper arrangements.
+* Add the aforementioned files (example: [circulatory_system.py](circulatory_system.py) and  [test_01.py](test_01.py) in the **Sub06** folder).
 <br>
 
 
