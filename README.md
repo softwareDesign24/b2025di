@@ -17,6 +17,6 @@
 - [ ] Sub05
 - [x] Sub06
 
-## Resources
+
 ## Specifications:
 * **[The human body (Britannica)](https://www.britannica.com/science/human-body)**
