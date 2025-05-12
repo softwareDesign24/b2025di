@@ -1,7 +1,7 @@
 # micro-task 06
 ## 1. Introduction
 * Based on the Class Diagram (see Sub02), choose one class and write its code. 
-* Then write a simple unit testing file (with the programming language you chose) with at least two tests.
+* Then create a simple unit testing file (with the programming language you chose) with at least two tests.
 
 ## 2. Goals
 During this task, you have to build at least the following **2 files**:
