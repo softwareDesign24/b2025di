@@ -17,7 +17,7 @@ During this task, you have to build at least the following **2 files**:
 
 If unit testing succeeds, the a screen similar to the following screenshot will appear in your Github Actions tab:
 
-![Github Actions success screen!](githubActionsSuccessScreen.png)
+<kbd>![Github Actions success screen!](githubActionsSuccessScreen.png)</kbd>
 
 ## 4. Assumptions
 * Assumption01: ................
