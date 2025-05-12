@@ -14,7 +14,9 @@ During this task, you have to build at least the following **2 files**:
 * Create **.github/workflows** folder and add **python-unit_test.yml** file (see the **[example](../.github/workflows/python-unit_test.yml)**). Provided that you selected python, the file should contain the necessary key-value pairs. If you choose a different language, you have to make the proper arrangements.
 <br>
 <br>
+
 If unit testing succeeds, the a screen similar to the following screenshot will appear in your Github Actions tab:
+
 ![Github Actions success screen!](githubActionsSuccessScreen.png)
 
 ## 4. Assumptions
