@@ -16,7 +16,7 @@ During this task, you have to build in the **Sub06** folder at least the followi
 <br>
 
 
-If unit testing succeeds, the a screen similar to the following screenshot will appear in your Github Actions tab:
+If unit testing succeeds (it takes a few seconds to run), the a screen similar to the following screenshot will appear in your Github Actions tab:
 
 <kbd>![Github Actions success screen!](githubActionsSuccessScreen.png)</kbd>
 
