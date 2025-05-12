@@ -10,10 +10,12 @@
 * Email: ................
 
 ## Subprojects delivered on time:
-- [ ] Sub01
-- [ ] Sub02
+- [x] Sub01
+- [x] Sub02
 - [ ] Sub03
-- [x] ...
+- [x] Sub04
+- [ ] Sub05
+- [x] Sub06
 
 ## Resources
 ## Specifications:
