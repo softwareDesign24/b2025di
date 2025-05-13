@@ -6,7 +6,7 @@ class Heart:
     self.rate = var01
 
   # A simple function
-  # bmp numbers are implemented only as an example
+  # bmp numbers below are implemented only as non-medical examples
   def check_health(self):
     if (self.rate >= 55 and self.rate <= 85):
       self.health = True
