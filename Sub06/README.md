@@ -3,7 +3,7 @@
 * Based on the Class Diagram (see Sub02), choose one class and write its code. 
 * Then create a simple unit testing file (with the programming language you chose) with at least two tests.
 
-## 2. Details & Secifications
+## 2. Further Details & Secifications
 During this task, you have to build in the **Sub06** folder at least the following **2 files**:
 - [ ] In the first file (e.g. [circulatory_system.py](circulatory_system.py)), code at least **1 class** that contains at least **1 attribute** and **1 method**.
 - [ ] In the second file (e.g. [test_01.py](test_01.py)), code at least **2 unit testing functions**.
