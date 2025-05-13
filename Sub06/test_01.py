@@ -9,5 +9,5 @@ def test_01():
 
 def test_02():
     a = Heart(200)
-    """ Check that check_health = True """
+    """ Check that check_health = False """
     assert a.check_health() == False
